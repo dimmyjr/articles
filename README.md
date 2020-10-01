@@ -11,6 +11,6 @@
 
 [========]
 
-###### Referencias e Ferramentas
-https://ezgif.com/maker/
-https://pandao.github.io/editor.md/index.html
+##### Referencias e Ferramentas
+- [https://ezgif.com/maker/](https://ezgif.com/maker/)
+- [https://pandao.github.io/editor.md/index.html](https://pandao.github.io/editor.md/index.html)

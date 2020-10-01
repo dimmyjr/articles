@@ -18,6 +18,9 @@ Admite acciones de guardado configurables, similares a Eclipse, que incluyen "op
 - Funciona en cualquier tipo de archivo (Java, Python, XML, etc.)
 - Utiliza un archivo de configuración por proyecto que puede confirmar
 
+### Demostración
+<img src="https://user-images.githubusercontent.com/3587262/94834610-f607cd80-03e6-11eb-9f12-1939c3989991.gif" alt="preview" width="800"/>
+
 ### Instalación
 <img src="https://user-images.githubusercontent.com/3587262/94829817-4da33a80-03e1-11eb-8273-ecd2b2fe11b2.png" alt="install" width="800"/>
 

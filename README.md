@@ -5,7 +5,7 @@
 ### IDEA Intellij - Plugins
 
 1. [Save Actions (Español)](intellij_save_action_ES.md)
-2. [Save Actions (Portguês)](intellij_save_action_PT.md)
+2. [Save Actions (Português)](intellij_save_action_PT.md)
 
 
 
